@@ -1,0 +1,12 @@
+{ "mls_name": "ga_fmls",
+    "mls_id": 76257,
+    "street_address": "176 Milton Ave",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": 30317,
+    "list_price": 275000,
+    "list_date": 1525249167,
+    "bedrooms": 3,
+    "full_baths": 2,
+    "half_baths": 1,
+    "size": 2300 }

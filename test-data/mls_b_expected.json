@@ -1,0 +1,11 @@
+{ "mls_name": "ncsc_cmls",
+  "mls_id": 53728,
+  "street_address": "256 Old Mill",
+  "city": "Charlotte",
+  "state": "NC",
+  "zip_code": 28269,
+  "list_price": 299999,
+  "list_date": 1526284800,
+  "bedrooms": 4,
+  "full_baths": 3,
+  "size": 1975 }

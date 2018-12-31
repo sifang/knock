@@ -4,4 +4,4 @@ This is the code for challenge from Knock.com. https://gist.github.com/particleb
 
 To run test: 
 1. git clone the project 
-2. then run "npm i && node test"
+2. then run "npm i && npm run test"
